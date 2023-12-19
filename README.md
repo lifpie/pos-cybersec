@@ -5,7 +5,7 @@ Este repositório contém os principais projetos e atividades desenvolvidos dura
 
 **Sumário:**
 
-1. [Principais Projetos Desenvolvidos](#principais-projetos-desenvolvidos)
+1. [Projetos Desenvolvidos](#projetos-desenvolvidos)
    - [Desafio Webscraping](#desafio-webscraping)
    - [Desafio Análise de Malware](#desafio-análise-de-malware)
    - [Desafio Redes Seguras](#desafio-redes-seguras)
@@ -45,7 +45,7 @@ Este repositório contém os principais projetos e atividades desenvolvidos dura
    - [Computação Forense](#computação-forense)
    - [Algoritmos Distribuídos e Blockchain](#algoritmos-distribuídos-e-blockchain)
 
-## Principais Projetos Desenvolvidos
+## Projetos Desenvolvidos
 [To do.]
 
 ---

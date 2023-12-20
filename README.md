@@ -8,7 +8,8 @@ Este repositório contém os principais projetos e atividades desenvolvidos dura
 1. [Projetos Desenvolvidos](#projetos-desenvolvidos)
    - [Desafio Webscraping](#desafio-webscraping)
    - [Desafio Análise de Malware](#desafio-análise-de-malware)
-   - [Desafio Redes Seguras](#desafio-redes-seguras)
+   - [Desafio Mapeamento e Monitoramento de Rede](#desafio-mapeamento-e-monitoramento-de-rede)
+   - [Desafio Segurança de Redes](#desafio-segurança-de-redes)
    - [Cybersecurity Bootcamp I](#cybersecurity-bootcamp-i)
    - [Cybersecurity Bootcamp II](#cybersecurity-bootcamp-ii)
 
@@ -89,7 +90,7 @@ Este desafio proporcionou que um dos prédios do Centro Universitário servisse 
 
 ---
 
-### Desafio Segurança de Rede
+### Desafio Segurança de Redes
 **Prof:** Luciano Freire || [Luciano Freire no LinkedIn](https://www.linkedin.com/in/luciano-freire/)
 
 **Profª:** Andreia Leles  || [Andreia Leles no LinkedIn](https://www.linkedin.com/in/andreia-leles-b0037320/)
@@ -110,7 +111,7 @@ Este desafio proporcionou a experiência de participar alternadamente dos times 
 O Cybersecurity Bootcamp I marca o encerramento do primeiro módulo semestral da especialização. Este projeto consiste na redação de um artigo propondo abordagens de segurança cibernética a serem aplicadas em um aplicativo de controle de ponto presente em dispositivos móveis, apresentadas mediante o uso de um Threat Model, e que incluem o uso de Machine Learning para detecção de Malwares em Sistemas Android, implementação de criptografia e assinatura de dados com o protocolo Diffie-Hellman, e aplicação de algoritmos de hash para segurança de banco de dados.
 
 *Trabalho Final:*
-- [Artigo - Bootcamp I]((1%20-%20Projetos%20Desenvolvidos/Artigo%20-%20Bootcamp%20I.pdf)) || [Vídeo](https://www.youtube.com/watch?v=1ZS9CxlXkx0&list=PLj-hIxscN0oOensA8bpQbiWuw4cUhxQZw&ab_channel=GelsonFilho)
+- [Artigo - Bootcamp I](1%20-%20Projetos%20Desenvolvidos/Artigo%20-%20Bootcamp%20I.pdf) || [Vídeo](https://www.youtube.com/watch?v=1ZS9CxlXkx0&list=PLj-hIxscN0oOensA8bpQbiWuw4cUhxQZw&ab_channel=GelsonFilho)
 
 ---
 
@@ -124,7 +125,7 @@ O Cybersecurity Bootcamp I marca o encerramento do primeiro módulo semestral da
 Este projeto permitiu que tivéssemos a oportunidade de realizar um teste de intrusão em sistemas e redes de computadores, posteriormente elaborando a devida documentação técnica. O relatório gerado descreve o processo de identificação, exploração e mitigação de várias vulnerabilidades em um sistema de rede e servidores. As técnicas de pentest utilizadas incluem varreduras, interceptação de tráfego, brute force, e escalonamento de privilégios. Tendo sido aplicadas estas técniacs, conclui-se ainda com a limpeza de rastros e a recomendação de ações para reforçar a segurança do sistema analisado.
 
 *Trabalho Final:*
-- [Relatório Pentest - Bootcamp II]((1%20-%20Projetos%20Desenvolvidos/Relat%C3%B3rio%20Pentest%20-%20Bootcamp%20II.pdf)) || [Vídeo](https://youtu.be/kAVHAvkutQQ?si=LD8UDw3JSaiolqh-) 
+- [Relatório Pentest - Bootcamp II](1%20-%20Projetos%20Desenvolvidos/Relat%C3%B3rio%20Pentest%20-%20Bootcamp%20II.pdf) || [Vídeo](https://youtu.be/kAVHAvkutQQ?si=LD8UDw3JSaiolqh-) 
 
 ## Fundamentos Teóricos e Metodologia
 Esta sessão contém uma breve descrição das disciplinas de "Metodologia da Pesquisa Científica" e "Leis e Regulamentações", além de apresentar os professores que as lecionaram e o trabalho final desenvolvido como critério de avaliação para estas disciplinas.

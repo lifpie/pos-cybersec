@@ -309,7 +309,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Redes de Computad
 [To do.]
 
 *Trabalho Final:*
-- [Trabalho Final de Introdução à I.A.](6%20-%20Tecnologias%20Emergentes%20e%20Seguran%C3%A7a/Trabalho%20Final%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20I.A..pdf)
+- [Trabalho Final de Introdução à I.A.](6%20-%20Tecnologias%20Emergentes%20e%20Seguran%C3%A7a/Trabalho%20Final%20-%20Introdu%C3%A7%C3%A3o%20IA.pdf)
 
 ---
 

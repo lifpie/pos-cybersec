@@ -10,6 +10,7 @@ Este repositório contém os principais projetos e atividades desenvolvidos dura
    - [Desafio Análise de Malware](#desafio-análise-de-malware)
    - [Desafio Mapeamento e Monitoramento de Rede](#desafio-mapeamento-e-monitoramento-de-rede)
    - [Desafio Segurança de Redes](#desafio-segurança-de-redes)
+   - [Hackathon Facens-Lenovo 2023](#hackathon-facens-lenovo-2023)
    - [Cybersecurity Bootcamp I](#cybersecurity-bootcamp-i)
    - [Cybersecurity Bootcamp II](#cybersecurity-bootcamp-ii)
 
@@ -103,6 +104,18 @@ Este desafio proporcionou a experiência de participar alternadamente dos times 
 
 ---
 
+### Hackathon Facens-Lenovo 2023
+**Prof:** Luciano Freire || [Luciano Freire no LinkedIn](https://www.linkedin.com/in/luciano-freire/)
+
+**Profª:** Andreia Leles  || [Andreia Leles no LinkedIn](https://www.linkedin.com/in/andreia-leles-b0037320/)
+
+Desenvolvimento de solução voltada para melhoria na privacidade e segurança em sistemas de monitoramento em cidades inteligentes. A proposta inclui o uso de tecnologias para anonimização e transmissão segura de dados, abordando questões como a exposição à privacidade, vazamento de dados pessoais, e ameaças cibernéticas.
+
+*Trabalho Final:*
+- [Monitoramento em Cidades Inteligentes](1%20-%20Projetos%20Desenvolvidos/Monitoramento%20em%20Cidades%20Inteligentes.pptx)
+
+---
+
 ### Cybersecurity Bootcamp I
 **Prof:** Luciano Freire || [Luciano Freire no LinkedIn](https://www.linkedin.com/in/luciano-freire/)
 
@@ -120,7 +133,7 @@ O Cybersecurity Bootcamp I marca o encerramento do primeiro módulo semestral da
 
 **Profª:** Andreia Leles  || [Andreia Leles no LinkedIn](https://www.linkedin.com/in/andreia-leles-b0037320/)
 
-**Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
+**Prof:** Osmany Arruda || [Osmany Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
 
 Este projeto permitiu que tivéssemos a oportunidade de realizar um teste de intrusão em sistemas e redes de computadores, posteriormente elaborando a devida documentação técnica. O relatório gerado descreve o processo de identificação, exploração e mitigação de várias vulnerabilidades em um sistema de rede e servidores. As técnicas de pentest utilizadas incluem varreduras, interceptação de tráfego, brute force, e escalonamento de privilégios. Tendo sido aplicadas estas técniacs, conclui-se ainda com a limpeza de rastros e a recomendação de ações para reforçar a segurança do sistema analisado.
 
@@ -160,13 +173,14 @@ Esta sessão contém uma breve descrição das disciplinas de "Design Seguro (SD
 ---
 
 ### Design Seguro (SDL)
-**Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
+**Prof:** Osmany Arruda || [Osmany Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
 
 [To do.]
 
 *Trabalho Final:*
-- [Resumo de ferramentas de análise e teste de código](link) || [Vídeo](link)
-- [Principais riscos em aplicações web](link) || [Vídeo](link)
+- [Ferramentas de análise e teste de código](3%20-%20Desenvolvimento%20e%20C%C3%B3digo%20Seguro/Design%20Seguro%20(SDL)/1%20-%20Ferramentas%20de%20an%C3%A1lise%20e%20teste%20de%20c%C3%B3digo.pdf) || [Vídeo](link)
+- [Principais riscos em aplicações web](3%20-%20Desenvolvimento%20e%20C%C3%B3digo%20Seguro/Design%20Seguro%20(SDL)/2%20-%20Principais%20riscos%20em%20aplica%C3%A7%C3%B5es%20web.pdf) || [Vídeo](https://youtu.be/-XJ-kyH7XXI?si=RfvU2_UptoQE3TGA)
+- [OWASP ZAP](3%20-%20Desenvolvimento%20e%20C%C3%B3digo%20Seguro/Design%20Seguro%20(SDL)/3%20-%20OWASP%20ZAP.pdf) || [Vídeo](https://youtu.be/P2UTReNspy4?si=bCqgrnB7SAcMU1ox)
 
 ---
 
@@ -176,7 +190,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Design Seguro (SD
 [To do.]
 
 *Trabalho Final:*
-- [PoC Aperfeiçoamento de código](link)
+- [Aplicando técnicas de desenvolvimento seguro](3%20-%20Desenvolvimento%20e%20C%C3%B3digo%20Seguro/Trabalho%20Final%20-%20Desenvolvimento%20C%C3%B3digo%20Seguro.pdf)
 
 ---
 
@@ -186,7 +200,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Design Seguro (SD
 [To do.]
 
 *Trabalho Final:*
-- [PoC Aperfeiçoamento de código](link)
+- [Segurança de Aplicações Web](link)
 
 ## Criptografia e Segurança de Dados
 Esta sessão contém uma breve descrição das disciplinas de "Criptografia", e "Criptografia Pós-Quântica", além de apresentar os professores que as lecionaram e o trabalho final desenvolvido como critério de avaliação para estas disciplinas.
@@ -194,12 +208,12 @@ Esta sessão contém uma breve descrição das disciplinas de "Criptografia", e 
 ---
 
 ### Criptografia
-**Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
+**Prof:** Osmany Arruda || [Osmany Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
 
 [To do.]
 
 *Trabalho Final:*
-- [Criptografia aplicada em e-mail](link)
+- [Criptografia aplicada em e-mail](4%20-%20Criptografia%20e%20Seguran%C3%A7a%20de%20Dados/Criptografia%20em%20Emails%20-%20Criptografia.pdf)
 
 ---
 
@@ -227,22 +241,22 @@ Esta sessão contém uma breve descrição das disciplinas de "Redes de Computad
 ---
 
 ### Segurança de Redes
-**Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
+**Prof:** Osmany Arruda || [Osmany Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
 
 [To do.]
 
 *Trabalho Final:*
-- [Ataque cibernético em redes locais](link)
+- [Ataque cibernético em redes locais](5%20-%20Seguran%C3%A7a%20em%20Redes%20e%20Infraestrutura/Ataques%20cibern%C3%A9ticos%20em%20redes%20locais%20-%20Seguran%C3%A7a%20de%20Redes.pdf)
 
 ---
 
 ### Segurança de Dispositivos Mobile
-**Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
+**Prof:** Osmany Arruda || [Osmany Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
 
 [To do.]
 
 *Trabalho Final:*
-- [PoC Comprometimento de dispositivo móvel](link)
+- [PoC Comprometimento de dispositivo móvel](5%20-%20Seguran%C3%A7a%20em%20Redes%20e%20Infraestrutura/PoC%20Comprometimento%20-%20Seguran%C3%A7a%20de%20Dispositivos%20Mobile.pdf)
 
 ---
 
@@ -252,17 +266,17 @@ Esta sessão contém uma breve descrição das disciplinas de "Redes de Computad
 [To do.]
 
 *Trabalho Final:*
-- [PoC Técnicas de hardening em ambiente virtualizado](link) || *[Vídeo](link)*
+- [PoC Técnicas de hardening em ambiente virtualizado](5%20-%20Seguran%C3%A7a%20em%20Redes%20e%20Infraestrutura/T%C3%A9cnicas%20de%20Hardening%20-%20Windows%20Hardening.pdf) || [Vídeo](https://youtu.be/qdrSsU4DAiw?si=JTF-QHW4V3Z7MSZe)
 
 ---
 
 ### Linux Hardening
-**Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
+**Prof:** Osmany Arruda || [Osmany Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
 
 [To do.]
 
 *Trabalho Final:*
-- [PoC Golden Image Linux - Servidor NTP](link) || *[Vídeo](link)*
+- [PoC Golden Image Linux - Servidor NTP](5%20-%20Seguran%C3%A7a%20em%20Redes%20e%20Infraestrutura/Golden%20Image%20-%20Linux%20Hardening.pdf) || [Vídeo](https://youtu.be/pBaY3LaNfdM?si=xlwFwt9FDseuYgTM)
 
 ## Tecnologias Emergentes e Segurança
 [To do.]
@@ -275,7 +289,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Redes de Computad
 [To do.]
 
 *Trabalho Final:*
-- [PoC Certificados e entidades certificadoras](link)
+- [PoC Certificados e entidades certificadoras](6%20-%20Tecnologias%20Emergentes%20e%20Seguran%C3%A7a/Atividade%20-%20Trusted%20Computing.pdf)
 
 ---
 
@@ -285,7 +299,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Redes de Computad
 [To do.]
 
 *Trabalho Final:*
-- [PoC Implementação de Sistema Seguro IoT](link) || *[Vídeo](link)*
+- [Comunicação segura em dispositivos IoT](6%20-%20Tecnologias%20Emergentes%20e%20Seguran%C3%A7a/Comunica%C3%A7%C3%A3o%20Segura%20-%20Seguran%C3%A7a%20aplicada%20a%20IoT.pdf) || [Vídeo](https://youtu.be/cTR7JH-ZSoo?si=KnknEzdiz5AuaPsS)
 
 ---
 
@@ -295,8 +309,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Redes de Computad
 [To do.]
 
 *Trabalho Final:*
-- [ToDo](link)
-
+- [Trabalho Final de Introdução à I.A.](6%20-%20Tecnologias%20Emergentes%20e%20Seguran%C3%A7a/Trabalho%20Final%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20I.A..pdf)
 
 ---
 
@@ -319,7 +332,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Redes de Computad
 [To do.]
 
 *Trabalho Final:*
-- [PoC Análise de software utilizando o Ghidra](link)
+- [PoC Análise de software utilizando o Ghidra](7%20-%20An%C3%A1lise%20e%20Defesa%20Avan%C3%A7ada/An%C3%A1lise%20de%20softwares%20utilizando%20Ghidra%20-%20Engenharia%20Reversa.pdf)
 
 ---
 
@@ -329,12 +342,12 @@ Esta sessão contém uma breve descrição das disciplinas de "Redes de Computad
 [To do.]
 
 *Trabalho Final:*
-- [ToDo](link)
+- [Análise de Dump de Memória Comprometido](7%20-%20An%C3%A1lise%20e%20Defesa%20Avan%C3%A7ada/An%C3%A1lise%20de%20Dump%20de%20Mem%C3%B3ria%20-%20An%C3%A1lise%20de%20Malware.pdf)
 
 ---
 
 ### Resposta a Incidentes
-**Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
+**Prof:** Osmany Arruda || [Osmany Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
 
 [To do.]
 
@@ -344,7 +357,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Redes de Computad
 ---
 
 ### Computação Forense
-**Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
+**Prof:** Osmany Arruda || [Osmany Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
 
 [To do.]
 

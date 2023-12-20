@@ -192,7 +192,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Design Seguro (SD
 *Trabalho Final:*
 - [Aplicando técnicas de desenvolvimento seguro](3%20-%20Desenvolvimento%20e%20C%C3%B3digo%20Seguro/Trabalho%20Final%20-%20Desenvolvimento%20C%C3%B3digo%20Seguro.pdf)
 
----
+<!-- ---
 
 ### Segurança de Aplicações Web
 **Prof:** Allan Piter Pressi || [Allan Piter no Linkedin](https://www.linkedin.com/in/allanpitter/)
@@ -200,7 +200,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Design Seguro (SD
 [To do.]
 
 *Trabalho Final:*
-- [Segurança de Aplicações Web](link)
+- [Segurança de Aplicações Web](link) -->
 
 ## Criptografia e Segurança de Dados
 Esta sessão contém uma breve descrição das disciplinas de "Criptografia", e "Criptografia Pós-Quântica", além de apresentar os professores que as lecionaram e o trabalho final desenvolvido como critério de avaliação para estas disciplinas.
@@ -215,7 +215,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Criptografia", e 
 *Trabalho Final:*
 - [Criptografia aplicada em e-mail](4%20-%20Criptografia%20e%20Seguran%C3%A7a%20de%20Dados/Criptografia%20em%20Emails%20-%20Criptografia.pdf)
 
----
+<!-- ---
 
 ### Criptografia Pós-Quântica
 **Prof:** --- || [--- no LinkedIn](link)
@@ -223,12 +223,12 @@ Esta sessão contém uma breve descrição das disciplinas de "Criptografia", e 
 [To do.]
 
 *Trabalho Final:*
-- [To do.](link)
+- [To do.](link) -->
 
 ## Segurança em Redes e Infraestrutura
 Esta sessão contém uma breve descrição das disciplinas de "Redes de Computadores e Cloud Computing", "Segurança de Redes", "Segurança de Dispositivos Mobile", "Windows Hardening" e "Linux Hardening", além de apresentar os professores que as lecionaram e o trabalho final desenvolvido como critério de avaliação para estas disciplinas.
 
----
+<!-- ---
 
 ### Redes de Computadores e Cloud Computing
 **Prof:** Rodrigo Suzuki || [Rodrigo Suzuki no LinkedIn](https://www.linkedin.com/in/rodrigosuzuki/)
@@ -236,7 +236,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Redes de Computad
 [To do.]
 
 *Trabalho Final:*
-- [To do.](link)
+- [To do.](link) -->
 
 ---
 
@@ -311,7 +311,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Redes de Computad
 *Trabalho Final:*
 - [Trabalho Final de Introdução à I.A.](6%20-%20Tecnologias%20Emergentes%20e%20Seguran%C3%A7a/Trabalho%20Final%20-%20Introdu%C3%A7%C3%A3o%20IA.pdf)
 
----
+<!-- ---
 
 ### Inteligência Artificial Aplicada à Segurança
 **Prof:** --- || [--- no Linkedin](link)
@@ -323,7 +323,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Redes de Computad
 
 
 ## Análise e Defesa Avançada
-[To do.]
+[To do.] -->
 
 ---
 ### Engenharia Reversa
@@ -344,7 +344,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Redes de Computad
 *Trabalho Final:*
 - [Análise de Dump de Memória Comprometido](7%20-%20An%C3%A1lise%20e%20Defesa%20Avan%C3%A7ada/An%C3%A1lise%20de%20Dump%20de%20Mem%C3%B3ria%20-%20An%C3%A1lise%20de%20Malware.pdf)
 
----
+<!-- ---
 
 ### Resposta a Incidentes
 **Prof:** Osmany Arruda || [Osmany Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
@@ -372,4 +372,4 @@ Esta sessão contém uma breve descrição das disciplinas de "Redes de Computad
 [To do.]
 
 *Trabalho Final:*
-- [ToDo](link)
+- [ToDo](link) -->

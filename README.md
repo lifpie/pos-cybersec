@@ -46,69 +46,85 @@ Este repositório contém os principais projetos e atividades desenvolvidos dura
    - [Algoritmos Distribuídos e Blockchain](#algoritmos-distribuídos-e-blockchain)
 
 ## Projetos Desenvolvidos
-[To do.]
+Aqui estão listados alguns dos desafios que realizamos durante o programa de pós-graduação, bem como os trabalhos realizados durante os Bootcamps, que serviram como trabalho final dos módulos 1 e 2.
 
 ---
 
 ### Desafio Webscraping
 **Prof:** Luciano Freire || [Luciano Freire no LinkedIn](https://www.linkedin.com/in/luciano-freire/)
 
-**Prof:** Andreia Leles  || [Andreia Leles no LinkedIn](https://www.linkedin.com/in/andreia-leles-b0037320/)
 
-[To do.]
+**Profª:** Andreia Leles  || [Andreia Leles no LinkedIn](https://www.linkedin.com/in/andreia-leles-b0037320/)
+
+Para este desafio foi desenvolvido um aplicativo para automatizar consultas de vulnerabilidades na National Vulnerability Database (NVD). O aplicativo inclui uma interface web desenvolvida com Python, HTML e CSS, e uma versão executável, desenvolvida com PyQt6. O usuário pode solicitar a verificação de vulnerabilidades em softwares em um período selecionável. Após a análise, um e-mail contendo as vulnerabilidades mais críticas é enviado, junto a uma planilha detalhada. O projeto também permite que o usuário receba os resultados via WhatsApp.
 
 *Trabalho Final:*
-- [Webscraping](link) || [Vídeo](link) 
+- [Consulta de vulnerabilidades NVD](https://github.com/lifpie/G3WP) || [Vídeo](https://youtu.be/aZzSfYX1B_E?si=061zG8LKMw6WnojN)
 
 ---
 
 ### Desafio Análise de Malware
-**Prof:** Luciano Freire || [Luciano Freire no LinkedIn](https://www.linkedin.com/in/luciano-freire/).
+**Prof:** Luciano Freire || [Luciano Freire no LinkedIn](https://www.linkedin.com/in/luciano-freire/)
 
-**Prof:** Andreia Leles  || [Andreia Leles no LinkedIn](https://www.linkedin.com/in/andreia-leles-b0037320/)
+**Profª:** Andreia Leles  || [Andreia Leles no LinkedIn](https://www.linkedin.com/in/andreia-leles-b0037320/)
 
-[To do.]
+Projeto realizado durante o nivelamento oferecido pelo programa de especialização. Após o treinamento em linguagem C e Assembly, foi solicitado que os integrantes do grupo realizassem a análise de uma sample de malware. Neste desafio abordamos os principais tipos de malwares, os métodos de análise (Análise Estática e Análise Dinâmica), principais ferramentas utilizadas neste processo, e então realizamos a análise de três samples, sendo uma delas um "joke virus", criado somente para demonstração da análise.
 
 *Trabalho Final:*
-- [Análise de Malware](link) || [Vídeo](link) 
+- [Análise de Malware (Vídeo)](https://youtu.be/HARiO0o-Srk?si=PtgSzpknSl4CTm8J)
+- [Malware Analysis - Joke Virus (Github)](https://github.com/GelsonFilho/MalwareAnalysis)
 
 ---
 
-### Desafio Redes Seguras
-**Prof:** Luciano Freire || [Luciano Freire no LinkedIn](https://www.linkedin.com/in/luciano-freire/).
+### Desafio Mapeamento e Monitoramento de Rede
+**Prof:** Luciano Freire || [Luciano Freire no LinkedIn](https://www.linkedin.com/in/luciano-freire/)
 
-**Prof:** Andreia Leles  || [Andreia Leles no LinkedIn](https://www.linkedin.com/in/andreia-leles-b0037320/)
+**Profª:** Andreia Leles  || [Andreia Leles no LinkedIn](https://www.linkedin.com/in/andreia-leles-b0037320/)
 
-[To do.]
+Este desafio proporcionou que um dos prédios do Centro Universitário servisse de laboratório a fim de executar na prática atividades de mapeamento e monitoramento de redes. Os alunos se dividiram em duas equipes que trabalharam simultaneamente nas atividades de mapeamento e monitoramento, tendo sido realizado uma rotação planejada a fim de que todos pudessem ter parte em ambas as atividades. Durante as atividades de mapeamento foram gerados documentos técnicos que serviriam posteriormente como processos a serem seguidos na universidade, de acordo com os padrões de qualidade. As atividades de monitoramento permitiram que ferramentas como Zabbix e Grafana fossem implementados em um cenário real, a fim de tornar o monitoramento de redes mais efetivo.
 
 *Trabalho Final:*
-- [Redes Seguras](link) || [Vídeo](link) 
+- [Relatório de Mapeamento](1%20-%20Projetos%20Desenvolvidos/Relat%C3%B3rio%20de%20Mapeamento.pdf)
+- [Relatório de Monitoramento](1%20-%20Projetos%20Desenvolvidos/Relat%C3%B3rio%20de%20Monitoramento.pdf)
+
+---
+
+### Desafio Segurança de Rede
+**Prof:** Luciano Freire || [Luciano Freire no LinkedIn](https://www.linkedin.com/in/luciano-freire/)
+
+**Profª:** Andreia Leles  || [Andreia Leles no LinkedIn](https://www.linkedin.com/in/andreia-leles-b0037320/)
+
+Este desafio proporcionou a experiência de participar alternadamente dos times de segurança ofensiva e segurança defensiva. A primeira etapa do desafio consistiu na elaboração de diversos workshops pelos times de alunos a fim de proporcionar um melhor entendimento do cenário que seria utlizado posteriormente. A segunda fase consistia em realizar a configuração de todo o ambiente virtualizado no qual as atividades de invasão e monitoramento ocorreriam, sendo posteriormente realizadas tentativas de ataque através de um sistema operacional Kali Linux, e o monitoramento ocorrendo através de um SIEM ELK Stack. A fase final do projeto abordou um cenário no qual dispositivos IoT eram utilizados para comprometer a rede.
+
+*Trabalho Final:*
+- [Desafio de Segurança de Rede (Relatório)](1%20-%20Projetos%20Desenvolvidos/Desafio%20Seguran%C3%A7a%20de%20Rede.pdf)
+- [Desafio de Segurança de Rede (Github)](https://github.com/lifpie/Ambiente-Simulado)
 
 ---
 
 ### Cybersecurity Bootcamp I
-**Prof:** Luciano Freire || [Luciano Freire no LinkedIn](https://www.linkedin.com/in/luciano-freire/).
+**Prof:** Luciano Freire || [Luciano Freire no LinkedIn](https://www.linkedin.com/in/luciano-freire/)
 
-**Prof:** Andreia Leles  || [Andreia Leles no LinkedIn](https://www.linkedin.com/in/andreia-leles-b0037320/)
+**Profª:** Andreia Leles  || [Andreia Leles no LinkedIn](https://www.linkedin.com/in/andreia-leles-b0037320/)
 
-[To do.]
+O Cybersecurity Bootcamp I marca o encerramento do primeiro módulo semestral da especialização. Este projeto consiste na redação de um artigo propondo abordagens de segurança cibernética a serem aplicadas em um aplicativo de controle de ponto presente em dispositivos móveis, apresentadas mediante o uso de um Threat Model, e que incluem o uso de Machine Learning para detecção de Malwares em Sistemas Android, implementação de criptografia e assinatura de dados com o protocolo Diffie-Hellman, e aplicação de algoritmos de hash para segurança de banco de dados.
 
 *Trabalho Final:*
-- [Artigo Científico](link) || *[Vídeo](link)* 
+- [Artigo - Bootcamp I]((1%20-%20Projetos%20Desenvolvidos/Artigo%20-%20Bootcamp%20I.pdf)) || [Vídeo](https://www.youtube.com/watch?v=1ZS9CxlXkx0&list=PLj-hIxscN0oOensA8bpQbiWuw4cUhxQZw&ab_channel=GelsonFilho)
 
 ---
 
 ### Cybersecurity Bootcamp II
-**Prof:** Luciano Freire || [Luciano Freire no LinkedIn](https://www.linkedin.com/in/luciano-freire/).
+**Prof:** Luciano Freire || [Luciano Freire no LinkedIn](https://www.linkedin.com/in/luciano-freire/)
 
-**Prof:** Andreia Leles  || [Andreia Leles no LinkedIn](https://www.linkedin.com/in/andreia-leles-b0037320/)
+**Profª:** Andreia Leles  || [Andreia Leles no LinkedIn](https://www.linkedin.com/in/andreia-leles-b0037320/)
 
 **Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
 
-[To do.]
+Este projeto permitiu que tivéssemos a oportunidade de realizar um teste de intrusão em sistemas e redes de computadores, posteriormente elaborando a devida documentação técnica. O relatório gerado descreve o processo de identificação, exploração e mitigação de várias vulnerabilidades em um sistema de rede e servidores. As técnicas de pentest utilizadas incluem varreduras, interceptação de tráfego, brute force, e escalonamento de privilégios. Tendo sido aplicadas estas técniacs, conclui-se ainda com a limpeza de rastros e a recomendação de ações para reforçar a segurança do sistema analisado.
 
 *Trabalho Final:*
-- [Artigo Científico](link) || *[Vídeo](link)* 
+- [Relatório Pentest - Bootcamp II]((1%20-%20Projetos%20Desenvolvidos/Relat%C3%B3rio%20Pentest%20-%20Bootcamp%20II.pdf)) || [Vídeo](https://youtu.be/kAVHAvkutQQ?si=LD8UDw3JSaiolqh-) 
 
 ## Fundamentos Teóricos e Metodologia
 Esta sessão contém uma breve descrição das disciplinas de "Metodologia da Pesquisa Científica" e "Leis e Regulamentações", além de apresentar os professores que as lecionaram e o trabalho final desenvolvido como critério de avaliação para estas disciplinas.
@@ -123,7 +139,7 @@ Esta disciplina é focada em aprimorar o desenvolvimento de habilidades de estru
 A atividade final desta disciplina se deu mediante o desenvolvimento de um exercício de revisão de literatura, no qual contextualizamos os principais problemas envolvidos na implementação de Políticas de Segurança da Informação em universidades.
 
 *Trabalho Final:*
-- [Revisão de Literatura](/Fundamentos%20Teóricos%20e%20Metodologia/Revisão%20de%20Literatura%20-%20Metodologia%20Pesquisa%20Científica.pdf)
+- [Revisão de Literatura](2%20-%20Fundamentos%20Te%C3%B3ricos%20e%20Metodologia/Revis%C3%A3o%20de%20Literatura%20-%20Metodologia%20Pesquisa%20Cient%C3%ADfica.pdf)
 
 ---
 
@@ -135,7 +151,7 @@ Essa disciplina visa apresentar as principais leis e regulamentações relaciona
 O trabalho final desenvolvido nesta disciplina consiste em aplicar os conceitos e estratégias discutidos em sala de aula em cenários hipotéticos, visando alcançar maior segurança dos sistemas.
 
 *Trabalho Final:*
-- [Atividade Avaliativa](/Fundamentos%20Teóricos%20e%20Metodologia/Atividade%20Avaliativa%20-%20Leis%20e%20Regulamentações.pdf)
+- [Atividade Avaliativa](2%20-%20Fundamentos%20Te%C3%B3ricos%20e%20Metodologia/Atividade%20Avaliativa%20-%20Leis%20e%20Regulamenta%C3%A7%C3%B5es.pdf)
 
 ## Desenvolvimento e Código Seguro
 Esta sessão contém uma breve descrição das disciplinas de "Design Seguro (SDL)", "Desenvolvimento de Código Seguro" e "Segurança de Aplicações Web", além de apresentar os professores que as lecionaram e o trabalho final desenvolvido como critério de avaliação para estas disciplinas.
@@ -148,8 +164,8 @@ Esta sessão contém uma breve descrição das disciplinas de "Design Seguro (SD
 [To do.]
 
 *Trabalho Final:*
-- [Resumo de ferramentas de análise e teste de código](link) || *[Vídeo](link)*
-- [Principais riscos em aplicações web](link) || *[Vídeo](link)*
+- [Resumo de ferramentas de análise e teste de código](link) || [Vídeo](link)
+- [Principais riscos em aplicações web](link) || [Vídeo](link)
 
 ---
 
@@ -273,7 +289,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Redes de Computad
 ---
 
 ### Introdução à Inteligência Artificial
-**Prof:** ToDo || [ToDo no Linkedin](link)
+**Prof:** Paulo Rogerio Nietto || [Paulo Nietto no Linkedin](https://www.linkedin.com/in/pnietto/)
 
 [To do.]
 
@@ -284,7 +300,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Redes de Computad
 ---
 
 ### Inteligência Artificial Aplicada à Segurança
-**Prof:** ToDo || [ToDo no Linkedin](link)
+**Prof:** --- || [--- no Linkedin](link)
 
 [To do.]
 
@@ -307,7 +323,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Redes de Computad
 ---
 
 ### Análise de Malwares
-**Prof:** ToDo || [ToDo no LinkedIn](link)
+**Prof:** Sandro Melo || [Sandro Melo no LinkedIn](https://www.linkedin.com/in/sandromelo/)
 
 [To do.]
 
@@ -317,7 +333,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Redes de Computad
 ---
 
 ### Resposta a Incidentes
-**Prof:** ToDo || [ToDo no LinkedIn](link)
+**Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
 
 [To do.]
 
@@ -327,7 +343,7 @@ Esta sessão contém uma breve descrição das disciplinas de "Redes de Computad
 ---
 
 ### Computação Forense
-**Prof:** ToDo || [ToDo no LinkedIn](link)
+**Prof:** Osmany Arruda || [Osmanny Arruda no LinkedIn](https://www.linkedin.com/in/osmany-arruda/)
 
 [To do.]
 
